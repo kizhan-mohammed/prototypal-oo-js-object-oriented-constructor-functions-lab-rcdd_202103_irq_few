@@ -4,8 +4,8 @@ Function Scoote(year, color, model){
   this.model = model;
 } 
 
-Function Driver(year, color, model){
-  this.year = year;
-  this.color = color;
-  this.model = model;
+Function Driver(name, age, experience){
+  this.name = name;
+  this.age = age;
+  this.experience = experience;
 } 
