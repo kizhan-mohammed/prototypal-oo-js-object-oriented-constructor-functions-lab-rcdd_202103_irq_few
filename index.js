@@ -10,8 +10,7 @@ Function Driver(name, age, experience){
   this.experience = experience;
 } 
 
-Function PickupLocation (address , age, experience){
-  this.name = name;
-  this.age = age;
-  this.experience = experience;
+Function PickupLocation (address, city){
+  this.address = address;
+  this.city  = city;
 } 
